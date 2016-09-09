@@ -4,7 +4,7 @@
     "colorscheme": "felipeweb",
     "cursorline": true,
     "gofmt": true,
-    "goimports": "true",
+    "goimports": true,
     "ignorecase": false,
     "indentchar": " ",
     "infobar": true,
